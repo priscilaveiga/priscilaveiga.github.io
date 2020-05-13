@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Priscila Veiga
+bio: A Woman who eats pasta and loves travelling
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and so on...
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,8 +54,8 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Priscila Veiga
+    bio: A Woman who eats pasta and loves travelling
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
